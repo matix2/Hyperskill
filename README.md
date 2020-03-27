@@ -1,2 +1,0 @@
-# Hyperskill
-Hyperskill projects
