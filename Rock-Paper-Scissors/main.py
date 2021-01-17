@@ -53,7 +53,7 @@ if __name__ == "__main__":
     print("Okay, let's start")
 
     while True:
-        user_choice = input()  # Read user"s input
+        user_choice = input()  # Read users input
         computer_choice = random.choice(list(game_rules.keys()))  # Choose a random option
         if user_choice == "!exit":
             print("Bye!")
